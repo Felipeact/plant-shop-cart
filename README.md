@@ -2,7 +2,7 @@
 
 A React + Redux storefront for browsing and purchasing plants online. The app presents a landing page, product catalog organized into plant categories, and a cart experience with add, remove, and quantity-update actions.
 
-Live demo: https://felipeact.github.io/e-plantShopping/
+
 
 ## Overview
 
